@@ -1,0 +1,631 @@
+{
+  "ID": "acd2230f-542a-44ec-b06d-a12e9b7da98a",
+  "Version": "2.2.8.0",
+  "Name": "touch",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 14,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "res/desk.png",
+              "Plist": "res.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.25
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3195
+            },
+            "TopMargin": 551.0,
+            "BottomMargin": 320.0,
+            "Tag": 25,
+            "ActionTag": 1281379506,
+            "Size": {
+              "X": 720.0,
+              "Y": 409.0
+            },
+            "Name": "desk",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "res/colorbg.png",
+              "Plist": "res.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 2,
+            "Scale9OriginY": 2,
+            "Scale9Width": 6,
+            "Scale9Height": 6,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentHeightEnable": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.25
+            },
+            "TopMargin": 960.0,
+            "Tag": 35,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/bigline.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.0,
+                  "Y": 177.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1333,
+                  "Y": 0.5533
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 96.0,
+                "RightMargin": 131.0,
+                "TopMargin": 127.95,
+                "BottomMargin": 162.05,
+                "Tag": 44,
+                "ActionTag": -435335416,
+                "Size": {
+                  "X": 493.0,
+                  "Y": 30.0
+                },
+                "Name": "toucharrow_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/bigcir.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.0,
+                  "Y": 180.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5627
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 330.0,
+                "RightMargin": 330.0,
+                "TopMargin": 109.95,
+                "BottomMargin": 150.05,
+                "Tag": 45,
+                "ActionTag": -1713075664,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "touchCir",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 598299670,
+            "Size": {
+              "X": 720.0,
+              "Y": 320.0
+            },
+            "Name": "touchArea",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.001,
+              "Y": 384.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3906
+            },
+            "LeftMargin": 0.001,
+            "RightMargin": -0.001,
+            "TopMargin": 395.9999,
+            "BottomMargin": 384.0001,
+            "Tag": 28,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/heart.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 26.4364
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.0529
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 611.0,
+                "TopMargin": 378.5636,
+                "BottomMargin": 26.4364,
+                "Tag": 29,
+                "ActionTag": 751818894,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 95.0
+                },
+                "Name": "heart_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/heart.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 163.2253
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.3265
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 611.0,
+                "TopMargin": 241.7747,
+                "BottomMargin": 163.2253,
+                "Tag": 30,
+                "ActionTag": -900260277,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 95.0
+                },
+                "Name": "heart_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/heart.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 94.8309
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.1897
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 611.0,
+                "TopMargin": 310.1691,
+                "BottomMargin": 94.8309,
+                "Tag": 31,
+                "ActionTag": 1481198719,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 95.0
+                },
+                "Name": "heart_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/heart.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 300.0143
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.6
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 611.0,
+                "TopMargin": 104.9857,
+                "BottomMargin": 300.0143,
+                "Tag": 32,
+                "ActionTag": 912836231,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 95.0
+                },
+                "Name": "heart_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/heart.png",
+                  "Plist": "res.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.0,
+                  "Y": 231.6198
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.4632
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 611.0,
+                "TopMargin": 173.3802,
+                "BottomMargin": 231.6198,
+                "Tag": 33,
+                "ActionTag": -72294334,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 95.0
+                },
+                "Name": "heart_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2129519559,
+            "Size": {
+              "X": 720.0,
+              "Y": 500.0
+            },
+            "Name": "heartCon",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 1280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1563
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "BottomMargin": 1080.0,
+            "Tag": 20,
+            "Children": [
+              {
+                "LabelText": "0        ",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "numFont.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 40.8555,
+                  "Y": 95.2804
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0567,
+                  "Y": 0.4764
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 40.8555,
+                "RightMargin": 261.1445,
+                "TopMargin": -4.2804,
+                "BottomMargin": 95.2804,
+                "Tag": 14,
+                "ActionTag": 1537676684,
+                "Size": {
+                  "X": 418.0,
+                  "Y": 109.0
+                },
+                "Name": "scoreTF",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/pausebtn_press.png",
+                  "Plist": "res.plist"
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/pausebtn_press.png",
+                  "Plist": "res.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "res/pausebtn.png",
+                  "Plist": "res.plist"
+                },
+                "Scale9Width": 145,
+                "Scale9Height": 87,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 698.256,
+                  "Y": 174.74
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9698,
+                  "Y": 0.8737
+                },
+                "PreSize": {
+                  "X": 0.2014,
+                  "Y": 0.068
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 553.256,
+                "RightMargin": 21.744,
+                "TopMargin": 25.26,
+                "BottomMargin": 87.74,
+                "Tag": 18,
+                "ActionTag": -474597879,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 87.0
+                },
+                "Name": "pauseBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1308986623,
+            "Size": {
+              "X": 720.0,
+              "Y": 200.0
+            },
+            "Name": "top",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

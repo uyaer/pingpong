@@ -1,0 +1,45 @@
+<Solution>
+  <PropertyGroup Name="pingpong" Version="2.2.8.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="start.csd" Type="Layer" />
+        <Folder Name="res">
+          <Image Name="backbtn.png" />
+          <Image Name="backbtn_press.png" />
+          <Image Name="ball.png" />
+          <Image Name="ban.png" />
+          <Image Name="heart.png" />
+          <Image Name="homebtn.png" />
+          <Image Name="homebtn_press.png" />
+          <Image Name="pausebtn.png" />
+          <Image Name="pausebtn_press.png" />
+          <Image Name="ready_1.png" />
+          <Image Name="ready_2.png" />
+          <Image Name="ready_3.png" />
+          <Image Name="ready_go.png" />
+          <Image Name="splaybtn.png" />
+          <Image Name="splaybtn_press.png" />
+          <Image Name="startbtn.png" />
+          <Image Name="startbtn_press.png" />
+          <Image Name="txt_more_speed.png" />
+          <Image Name="txt_pause.png" />
+          <Image Name="txt_tip.png" />
+          <Image Name="colorbg.png" />
+          <Image Name="share.png" />
+          <Image Name="share_press.png" />
+          <Image Name="desk.png" />
+          <Image Name="bigline.png" />
+          <Image Name="bigcir.png" />
+        </Folder>
+        <PlistInfo Name="res.csi" Type="Plist" />
+        <Project Name="pause.csd" Type="Layer" />
+        <Project Name="touch.csd" Type="Layer" />
+        <Project Name="ready.csd" Type="Layer" />
+        <Project Name="over.csd" Type="Layer" />
+        <Fnt Name="numFont.fnt" />
+        <PlistParticleFile Name="eff.plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

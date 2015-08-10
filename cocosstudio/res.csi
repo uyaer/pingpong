@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="res" ID="34cdd0a4-800c-4a6a-bfa6-3e8c908f6c7b" Version="2.2.8.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="res/backbtn.png" />
+      <FilePathData Path="res/backbtn_press.png" />
+      <FilePathData Path="res/ball.png" />
+      <FilePathData Path="res/ban.png" />
+      <FilePathData Path="res/heart.png" />
+      <FilePathData Path="res/homebtn.png" />
+      <FilePathData Path="res/homebtn_press.png" />
+      <FilePathData Path="res/pausebtn.png" />
+      <FilePathData Path="res/pausebtn_press.png" />
+      <FilePathData Path="res/ready_1.png" />
+      <FilePathData Path="res/ready_2.png" />
+      <FilePathData Path="res/ready_3.png" />
+      <FilePathData Path="res/ready_go.png" />
+      <FilePathData Path="res/splaybtn.png" />
+      <FilePathData Path="res/splaybtn_press.png" />
+      <FilePathData Path="res/startbtn.png" />
+      <FilePathData Path="res/startbtn_press.png" />
+      <FilePathData Path="res/txt_more_speed.png" />
+      <FilePathData Path="res/txt_pause.png" />
+      <FilePathData Path="res/colorbg.png" />
+      <FilePathData Path="res/txt_tip.png" />
+      <FilePathData Path="res/desk.png" />
+      <FilePathData Path="res/bigline.png" />
+      <FilePathData Path="res/bigcir.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
